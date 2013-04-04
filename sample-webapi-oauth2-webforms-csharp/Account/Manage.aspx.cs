@@ -4,7 +4,7 @@ using System.Linq;
 
 using Microsoft.AspNet.Membership.OpenAuth;
 
-namespace sample_webapi_oauth2_webforms_csharp.Account
+namespace OAuth2Sample.Account
 {
     public partial class Manage : System.Web.UI.Page
     {

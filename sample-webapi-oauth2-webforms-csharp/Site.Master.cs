@@ -6,7 +6,7 @@ using System.Web.Security;
 using System.Web.UI;
 using System.Web.UI.WebControls;
 
-namespace sample_webapi_oauth2_webforms_csharp
+namespace OAuth2Sample
 {
     public partial class SiteMaster : MasterPage
     {

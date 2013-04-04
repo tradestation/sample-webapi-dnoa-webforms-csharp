@@ -1,1 +1,1 @@
-﻿<%@ Application Codebehind="Global.asax.cs" Inherits="sample_webapi_oauth2_webforms_csharp.Global" Language="C#" %>
+﻿<%@ Application Codebehind="Global.asax.cs" Inherits="OAuth2Sample.Global" Language="C#" %>

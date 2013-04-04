@@ -5,9 +5,9 @@ using System.Web;
 using System.Web.Optimization;
 using System.Web.Routing;
 using System.Web.Security;
-using sample_webapi_oauth2_webforms_csharp;
+using OAuth2Sample;
 
-namespace sample_webapi_oauth2_webforms_csharp
+namespace OAuth2Sample
 {
     public class Global : HttpApplication
     {

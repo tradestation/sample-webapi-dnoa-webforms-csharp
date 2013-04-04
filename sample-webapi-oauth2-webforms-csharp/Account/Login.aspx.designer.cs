@@ -7,7 +7,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace sample_webapi_oauth2_webforms_csharp.Account
+namespace OAuth2Sample.Account
 {
 
 
@@ -30,6 +30,6 @@ namespace sample_webapi_oauth2_webforms_csharp.Account
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::sample_webapi_oauth2_webforms_csharp.Account.OpenAuthProviders OpenAuthLogin;
+        protected global::OAuth2Sample.Account.OpenAuthProviders OpenAuthLogin;
     }
 }

@@ -7,7 +7,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace sample_webapi_oauth2_webforms_csharp {
+namespace OAuth2Sample {
     
     
     public partial class Site_Mobile {

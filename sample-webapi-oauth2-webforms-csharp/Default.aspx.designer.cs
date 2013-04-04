@@ -7,11 +7,9 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace sample_webapi_oauth2_webforms_csharp
-{
-
-
-    public partial class _Default
-    {
+namespace OAuth2Sample {
+    
+    
+    public partial class _Default {
     }
 }

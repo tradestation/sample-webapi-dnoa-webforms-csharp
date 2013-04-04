@@ -7,7 +7,7 @@ using System.Web.UI;
 using System.Web.UI.WebControls;
 using Microsoft.AspNet.FriendlyUrls.Resolvers;
 
-namespace sample_webapi_oauth2_webforms_csharp
+namespace OAuth2Sample
 {
     public partial class ViewSwitcher : System.Web.UI.UserControl
     {

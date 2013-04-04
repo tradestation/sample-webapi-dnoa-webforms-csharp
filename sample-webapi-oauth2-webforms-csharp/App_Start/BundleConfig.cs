@@ -4,7 +4,7 @@ using System.Linq;
 using System.Web;
 using System.Web.Optimization;
 
-namespace sample_webapi_oauth2_webforms_csharp
+namespace OAuth2Sample
 {
     public class BundleConfig
     {

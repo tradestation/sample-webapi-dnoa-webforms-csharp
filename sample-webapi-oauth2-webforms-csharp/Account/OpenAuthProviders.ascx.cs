@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Web;
 using Microsoft.AspNet.Membership.OpenAuth;
 
-namespace sample_webapi_oauth2_webforms_csharp.Account
+namespace OAuth2Sample.Account
 {
     public partial class OpenAuthProviders : System.Web.UI.UserControl
     {

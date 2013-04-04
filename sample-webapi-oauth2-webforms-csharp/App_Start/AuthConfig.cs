@@ -4,7 +4,7 @@ using System.Linq;
 using System.Web;
 using Microsoft.AspNet.Membership.OpenAuth;
 
-namespace sample_webapi_oauth2_webforms_csharp
+namespace OAuth2Sample
 {
     internal static class AuthConfig
     {

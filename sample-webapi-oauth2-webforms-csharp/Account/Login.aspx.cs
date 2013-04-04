@@ -5,7 +5,7 @@ using System.Web;
 using System.Web.UI;
 using System.Web.UI.WebControls;
 
-namespace sample_webapi_oauth2_webforms_csharp.Account
+namespace OAuth2Sample.Account
 {
     public partial class Login : Page
     {

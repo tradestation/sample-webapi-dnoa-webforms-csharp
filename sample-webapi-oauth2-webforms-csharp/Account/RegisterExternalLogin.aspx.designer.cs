@@ -7,7 +7,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace sample_webapi_oauth2_webforms_csharp.Account
+namespace OAuth2Sample.Account
 {
 
 
