@@ -4,7 +4,7 @@ using System.Web;
 using System.Web.Routing;
 using Microsoft.AspNet.FriendlyUrls;
 
-namespace OAuth2Sample
+namespace OAuth2Sample.App_Start
 {
     public static class RouteConfig
     {

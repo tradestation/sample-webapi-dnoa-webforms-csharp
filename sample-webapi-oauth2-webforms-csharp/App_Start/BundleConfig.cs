@@ -4,7 +4,7 @@ using System.Linq;
 using System.Web;
 using System.Web.Optimization;
 
-namespace OAuth2Sample
+namespace OAuth2Sample.App_Start
 {
     public class BundleConfig
     {

@@ -6,6 +6,7 @@ using System.Web.Optimization;
 using System.Web.Routing;
 using System.Web.Security;
 using OAuth2Sample;
+using OAuth2Sample.App_Start;
 
 namespace OAuth2Sample
 {
